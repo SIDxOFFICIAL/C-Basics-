@@ -10,7 +10,7 @@ int main(){
         int j=1;
         while (j<=spaces){
             cout<<" ";
-            j=j+1;
+            j++;
         }
         ///multiple stars
         int k=1;

@@ -16,7 +16,7 @@ int main(){
         int k=1;
         while (k<=stars){
             cout<<"*";
-            k=k+1;
+            k++;
         }
         ///next line
         cout<<endl;
